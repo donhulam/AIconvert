@@ -1,0 +1,8 @@
+{
+  "name": "AI nhận dạng văn bản từ ảnh",
+  "description": "Nhận dạng chính xác văn bản từ ảnh, kể cả chữ viết tay, và trò chuyện bằng tiếng Việt để tìm hiểu nội dung.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
