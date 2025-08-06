@@ -1,3 +1,4 @@
+
 import React, { useState, useCallback } from 'react';
 import { AppFile, FileStatus, ChatMessage } from './types';
 import { extractFormattedContentFromGemini } from './services/geminiService';
@@ -151,12 +152,12 @@ const App: React.FC = () => {
             <p>
               Phát triển bởi{' '}
               <a 
-                href="https://abaii.vn/" 
+                href="http://trolyai.io.vn/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="font-medium text-primary-600 dark:text-primary-400 hover:underline"
               >
-                Viện Công nghệ Blockchain và Trí tuệ nhân tạo ABAII
+                Đỗ Như Lâm
               </a>
             </p>
           </footer>
